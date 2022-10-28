@@ -2,7 +2,7 @@
 // function da arifmetik amalla
 
 let one = Number(prompt("1st"));
-let two = Number(prompt("2st"));
+let two = Number(prompt("2nd"));
 
 function plus(params) {
   return one + two;
